@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28f49088-f9d3-49d5-831d-dea57621b17f" name="Default Changelist" comment="testing">
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,26 +23,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="139" />
-          <entry key="py" value="451" />
+          <entry key="Python Console" value="224" />
+          <entry key="py" value="571" />
           <entry key="txt" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="590" />
+          <entry key="Python" value="795" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpeg" value="1" />
+          <entry key="jpeg" value="2" />
+          <entry key="png" value="1" />
           <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
+          <entry key="Image" value="3" />
           <entry key="Python" value="2" />
         </counts>
       </usages-collector>
@@ -50,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="159">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -62,21 +64,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="85">
+              <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.jpeg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -87,6 +84,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cv.</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -101,8 +103,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
       </list>
     </option>
   </component>
@@ -135,6 +137,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$/extend_partition/workspace" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -147,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.temp">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="object_recognize_GBclassroom" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,8 +176,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="object_recognize_GBclassroom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.temp" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temp" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -205,16 +238,16 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32912844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49920762" visible="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49920762" weight="0.32912844" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003965" side_tool="true" weight="0.32912844" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.22247706" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.6456422" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -229,25 +262,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/star.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="159">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="85">
+          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
