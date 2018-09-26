@@ -9,4 +9,4 @@ x = np.expand_dims(im, axis=0)
 x = keras.applications.mobilenet.preprocess_input(x)
 pred = model.predict(x)
 out = keras.applications.mobilenet.decode_predictions(pred)
-print out
+print (out)
