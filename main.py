@@ -2,8 +2,8 @@ from tensorflow import keras
 import numpy as np
 import time
 
-size = (112,112,3)
-model = keras.applications.MobileNet(input_shape=size)
+size = (224,224,3)
+model = keras.applications.MobileNet(input_shape=size, alpha=0.75)
 im = keras.preprocessing.image.load_img('test.jpeg', target_size=size)
 im = keras.preprocessing.image.img_to_array(im)
 start_time = time.time()
