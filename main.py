@@ -14,7 +14,7 @@ model = keras.applications.MobileNet(input_shape=size)
 for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True):
     try:
         frame = rawCapture.array
-        im = cv2.resize(frame, size)
+        im = cv2.resize(frame, size[:2])
         # im = keras.preprocessing.image.load_img('test.jpeg', target_size=size)
         im = keras.preprocessing.image.img_to_array(im)
         start_time = time.time()
