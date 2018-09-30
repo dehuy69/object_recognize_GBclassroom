@@ -3,7 +3,6 @@ from picamera.array import PiRGBArray
 from picamera import PiCamera
 import numpy as np
 import time
-import io
 import cv2
 
 camera = PiCamera()
