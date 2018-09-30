@@ -4,7 +4,7 @@ from picamera import PiCamera
 import numpy as np
 import time
 camera = PiCamera()
-camera.resolution = (800, 600)
+# camera.resolution = (800, 600)
 rawCapture = PiRGBArray(camera)
 privious_data = []
 privious_time = 0
@@ -14,9 +14,10 @@ model = keras.applications.MobileNet(input_shape=size)
 for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True):
     try:
         frame = rawCapture.array
+        print(frame.shape)
         im = cv2.resize(frame, size[:2])
-        # im = keras.preprocessing.image.load_img('test.jpeg', target_size=size)
-        im = keras.preprocessing.image.img_to_array(im)
+        #im = keras.preprocessing.image.load_img('test.jpeg', target_size=size)
+        #im = keras.preprocessing.image.img_to_array(im)
         start_time = time.time()
         x = np.expand_dims(im, axis=0)
         x = keras.applications.mobilenet.preprocess_input(x)
