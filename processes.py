@@ -48,7 +48,7 @@ def retrain_process():
 model = load_model('model.h5')
 model.load_weights('weight.h5')
 def predict(im):
-    x = np.expand_dims(im, axis=0)
+    x = np.expand_dims(im.astype('float32'), axis=0)
     x = mobilenet.preprocess_input(x)
     pred = model.predict(x)[0]
     max_score = pred.max()
