@@ -6,7 +6,10 @@ from keras.layers import GlobalAveragePooling2D, Dense
 from keras.models import Model, load_model
 from keras.utils import to_categorical
 
-labels = os.listdir('dataset')
+labels = ['Ruler', 'Paper', 'No Object', 'Tape', 'Scissor', 'Eraser', 'Pencil',
+          'Rectangular Builder Block', 'Whiteboard market', 'Primary Battery', 'Paint Brush',
+          'Trangular Prism Building block']
+
 def load_data(path='dataset', shape=(224,224)):
     x_train =[]
     y_train =[]
