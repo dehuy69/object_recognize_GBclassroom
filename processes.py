@@ -6,9 +6,7 @@ from keras.layers import GlobalAveragePooling2D, Dense
 from keras.models import Model, load_model
 from keras.utils import to_categorical
 
-labels = ['Ruler', 'Paper', 'Tape', 'Scissor', 'Eraser', 'Pencil',
-          'Rectangular Builder Block', 'Whiteboard market', 'Primary Battery',
-          'Paint Brush', 'Trangular Prism Building block']
+labels = os.listdir('dataset')
 def load_data(path='dataset', shape=(224,224)):
     x_train =[]
     y_train =[]
@@ -56,7 +54,7 @@ def predict(im):
     print (label_pred)
 
 if __name__ == '__main__':
-    # retrain_process()
-    im = load_img('dataset/Eraser/Eraser (1).JPG', target_size=(224, 224))
-    im = img_to_array(im)
-    predict(im)
+    retrain_process()
+    # im = load_img('dataset/Eraser/Eraser (1).JPG', target_size=(224, 224))
+    # im = img_to_array(im)
+    # predict(im)

@@ -1,157 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28f49088-f9d3-49d5-831d-dea57621b17f" name="Default Changelist" comment="testing">
-      <change afterPath="$PROJECT_DIR$/ItemsList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Eraser/Eraser (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paint Brush/PaintBrush (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Paper/paper (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Pencil/Pencil (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Primary Battery/Battery (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (11).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (12).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (13).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (14).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (15).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (16).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (17).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (18).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Rectangular Builder Block/Rectangular (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Ruler/Ruler (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (11).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/Scissor (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Scissor/scissor (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Tape/tape (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (11).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (12).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (13).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (14).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (15).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (16).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (17).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (18).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (19).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (20).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (21).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (22).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Trangular Prism Building block/Triangular Prism blocks (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (10).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (2).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (3).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (4).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (5).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (6).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (7).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (8).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Whiteboard market/WhiteBoard (9).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weight.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/object_recognize_GBclassroom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/object_recognize_GBclassroom.iml" afterDir="false" />
+    <list default="true" id="28f49088-f9d3-49d5-831d-dea57621b17f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processes.py" beforeDir="false" afterPath="$PROJECT_DIR$/processes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,25 +51,27 @@
     <session id="1907552114">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="341" />
           <entry key="dummy" value="9" />
-          <entry key="py" value="1409" />
+          <entry key="py" value="1439" />
           <entry key="requirement" value="23" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="Python" value="1750" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Python" value="1780" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -244,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -265,13 +119,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/processes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+            <state relative-caret-position="412">
+              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1538411963259" expanded="true" signature="553:558" ph="..." />
-                <marker date="1538411963259" expanded="true" signature="1077:1082" ph="..." />
-                <marker date="1538411963259" expanded="true" signature="1902:2042" ph="..." />
+                <marker date="1538484546382" expanded="true" signature="379:384" ph="..." />
+                <marker date="1538484546382" expanded="true" signature="903:908" ph="..." />
+                <marker date="1538484546382" expanded="true" signature="1728:1868" ph="..." />
               </folding>
             </state>
           </provider>
@@ -324,6 +178,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="dehuy69 &lt;dr.huy69@gmail.com&gt;" />
         <option value="dr.huy69@gmail.com" />
         <option value="dehuy69" />
         <option value="huy" />
@@ -339,6 +194,7 @@
         <option value="$PROJECT_DIR$/requirement" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/processes.py" />
       </list>
     </option>
   </component>
@@ -377,12 +233,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dataset/Scissor" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -492,13 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537933838913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove dataset">
+      <created>1538412427714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538412427714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="76" y="27" width="1123" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19272727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19272727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -509,7 +373,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49920762" visible="true" weight="0.32873562" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49920762" visible="true" weight="0.32873562" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003965" side_tool="true" weight="0.32912844" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.42413792" />
@@ -524,7 +388,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="remove dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove dataset" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/star.png">
@@ -546,6 +411,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset/Scissor/scissor (6).JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ItemsList.txt">
@@ -581,26 +449,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/processes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        <state relative-caret-position="412">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1538411963259" expanded="true" signature="553:558" ph="..." />
-            <marker date="1538411963259" expanded="true" signature="1077:1082" ph="..." />
-            <marker date="1538411963259" expanded="true" signature="1902:2042" ph="..." />
+            <marker date="1538484546382" expanded="true" signature="379:384" ph="..." />
+            <marker date="1538484546382" expanded="true" signature="903:908" ph="..." />
+            <marker date="1538484546382" expanded="true" signature="1728:1868" ph="..." />
           </folding>
         </state>
       </provider>
