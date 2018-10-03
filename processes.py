@@ -7,8 +7,8 @@ from keras.models import Model, load_model
 from keras.utils import to_categorical
 
 labels = ['Ruler', 'Paper', 'No Object', 'Tape', 'Scissor', 'Eraser', 'Pencil',
-          'Rectangular Builder Block', 'Whiteboard market', 'Primary Battery', 'Paint Brush',
-          'Trangular Prism Building block']
+          'Rectangular Builder Block', 'Whiteboard marker', 'Primary Battery', 'Paint Brush',
+          'Triangular Prism Building block']
 
 def load_data(path='dataset', shape=(224,224)):
     x_train =[]
