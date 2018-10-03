@@ -51,6 +51,7 @@ def predict(im):
     x = np.expand_dims(im.astype('float32'), axis=0)
     x = mobilenet.preprocess_input(x)
     pred = model.predict(x)[0]
+    print (pred)
     max_score = pred.max()
     index = pred.tolist().index(max_score)
     label_pred = labels[index]
