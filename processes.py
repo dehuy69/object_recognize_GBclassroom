@@ -2,7 +2,7 @@ import os
 import numpy as np
 from keras.preprocessing.image import load_img, img_to_array
 from keras.applications import mobilenet
-from keras.layers import GlobalAveragePooling2D, Dense
+from keras.layers import GlobalAveragePooling2D, Dense, GlobalMaxPooling2D
 from keras.models import Model, load_model
 from keras.utils import to_categorical
 
@@ -27,7 +27,7 @@ def load_data(path='dataset', shape=(224,224)):
 def create_model():
     encode_model = mobilenet.MobileNet(include_top=False, input_shape=(224, 224, 3))
     x = encode_model.output
-    x = GlobalAveragePooling2D()(x)
+    x = GlobalMaxPooling2D()(x)
     out = Dense(len(labels), activation='softmax')(x)
     model = Model(inputs=encode_model.input, outputs=out)
     model.compile(loss='categorical_crossentropy',
@@ -41,7 +41,7 @@ def retrain_process():
     x_encode = mobilenet.preprocess_input(x_train)
     y_encode = to_categorical(y_train, len(labels))
     model = create_model()
-    model.fit(x_encode, y_encode, epochs=10, batch_size=32)
+    model.fit(x_encode, y_encode, epochs=100, batch_size=32)
     model.save('model.h5')
     model.save_weights('weight.h5')
 
